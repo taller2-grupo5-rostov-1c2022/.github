@@ -17,7 +17,7 @@
 
 - [📲 Spotifiuby Realeses - APK](https://github.com/taller2-grupo5-rostov-1c2022/android-app/releases)
 - [🖥️ Back Office Web](https://rostov-spotifiuby.netlify.app/)
-- [🎵 Song Server Docs - Swagger](https://rostov-song-server.herokuapp.com/docs) [[dev](https://rostov-songs-dev.herokuapp.com/)]
+- [🎵 Song Server Docs - Swagger](https://rostov-song-server.herokuapp.com/docs) [[dev](https://rostov-songs-dev.herokuapp.com/docs/)]
 
 ### Otros
 
