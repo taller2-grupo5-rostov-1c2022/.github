@@ -1,26 +1,57 @@
-# Taller 2 - Grupo 5 - RostovFC - 1C2022
+# Taller 2 - Group 5 - RostovFC - 1C2022
 
-## Links Utiles
+## Links
 
-### Organizacion
+<details open>
+  <summary>
+    <h3> Planning</h3>
+  </summary>
 
 - [📄 Enunciado](https://taller-de-programacion-2.github.io/works/statement/2022/1/enunciado/)
 - [📈 Trello](https://trello.com/b/Kjg4LeEq/spotifiuby)
 - [🗓️ Sprint - Spreadsheet](https://docs.google.com/spreadsheets/d/1tFkrxioVGcj9Yy4X5Gez2n8S7ZMc2SEv-AUj2vXuvrg/edit#gid=0)
 
+</details>
 
-### Desarrollo
+<details open>
+  <summary>
+    <h3> Development</h3>
+  </summary>
 
 - [🔥 Firebase](https://console.firebase.google.com/u/0/project/rostov-spotifiuby/overview)
+- [🎛️ Heroku](https://dashboard.heroku.com/apps)
 
-### Productos
+</details>
+ 
+<details open>
+  <summary>
+    <h3> Main Products</h3>
+  </summary>
 
 - [📲 Spotifiuby Releases - APK](https://github.com/taller2-grupo5-rostov-1c2022/android-app/releases)
 - [🖥️ Back Office Web](https://rostov-spotifiuby.netlify.app/)
 - [🎵 Song Server Docs - Swagger](https://rostov-song-server.herokuapp.com/docs) [[dev](https://rostov-songs-dev.herokuapp.com/docs/)]
 
-### Otros
+</details>
+  
+ <details>
+  <summary>
+    <h3> Services</h3>
+  </summary>
 
-- [📞 Meet Semanal](https://meet.google.com/axy-qusc-wqa?authuser=0)
+- [📲 Payments Server](https://www.postman.com/descent-module-astronomer-32809629/workspace/rostov/overview)
+- [📲 Notifications Server](https://rostov-notifs-server.herokuapp.com/docs)
+- [📲 Messages Server](https://rostov-messages-server.herokuapp.com/docs)[[dev](https://rostov-messages-dev.herokuapp.com/docs)]
+
+</details>
+
+<details>
+  <summary>
+    <h3> Other</h3>
+  </summary>
+  
+- [📞 Weekly Meet](https://meet.google.com/axy-qusc-wqa?authuser=0)
 - [🗃️ Drive](https://drive.google.com/drive/folders/1VBf7WqJRDxUy6D87TiZ9oYl1o_7uy96w?usp=sharing)
 - [✏️ Lucid Chart](https://lucid.app/lucidchart/3bbc5b95-c82d-4865-ac01-eeb12a211bb2/edit?invitationId=inv_946ac734-4ffa-47f9-a540-bf6fd33d2647)
+ 
+</details>
