@@ -4,8 +4,8 @@
 
 <details open>
   <summary>
-    <h3> Planning</h3>
-  </summary>
+    <b> Planning</b>
+  </summary><br>
 
 - [📄 Enunciado](https://taller-de-programacion-2.github.io/works/statement/2022/1/enunciado/)
 - [📈 Trello](https://trello.com/b/Kjg4LeEq/spotifiuby)
@@ -15,8 +15,8 @@
 
 <details open>
   <summary>
-    <h3> Development</h3>
-  </summary>
+    <b> Development</b>
+  </summary><br>
 
 - [🔥 Firebase](https://console.firebase.google.com/u/0/project/rostov-spotifiuby/overview)
 - [🎛️ Heroku](https://dashboard.heroku.com/apps)
@@ -25,8 +25,8 @@
  
 <details open>
   <summary>
-    <h3> Main Products</h3>
-  </summary>
+    <b> Main Products</b>
+  </summary><br>
 
 - [📲 Spotifiuby Releases - APK](https://github.com/taller2-grupo5-rostov-1c2022/android-app/releases)
 - [🖥️ Back Office Web](https://rostov-spotifiuby.netlify.app/)
@@ -36,8 +36,8 @@
   
  <details>
   <summary>
-    <h3> Services</h3>
-  </summary>
+    <b> Services</b>
+  </summary><br>
 
 - [📲 Payments Server](https://www.postman.com/descent-module-astronomer-32809629/workspace/rostov/overview)
 - [📲 Notifications Server](https://rostov-notifs-server.herokuapp.com/docs)
@@ -47,8 +47,8 @@
 
 <details>
   <summary>
-    <h3> Other</h3>
-  </summary>
+    <b> Other</b>
+  </summary><br>
   
 - [📞 Weekly Meet](https://meet.google.com/axy-qusc-wqa?authuser=0)
 - [🗃️ Drive](https://drive.google.com/drive/folders/1VBf7WqJRDxUy6D87TiZ9oYl1o_7uy96w?usp=sharing)
