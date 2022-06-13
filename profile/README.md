@@ -41,7 +41,7 @@
 
 - [📲 Payments Server](https://www.postman.com/descent-module-astronomer-32809629/workspace/rostov/overview)
 - [📲 Notifications Server](https://rostov-notifs-server.herokuapp.com/docs)
-- [📲 Messages Server](https://rostov-messages-server.herokuapp.com/docs)[[dev](https://rostov-messages-dev.herokuapp.com/docs)]
+- [📲 Messages Server](https://rostov-messages-server.herokuapp.com/docs) [[dev](https://rostov-messages-dev.herokuapp.com/docs)]
 
 </details>
 
