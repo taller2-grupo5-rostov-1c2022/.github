@@ -5,7 +5,7 @@
     <b> Docs</b>
   </summary><br>
 
-- [📄 Documentacion](https://taller2-grupo5-rostov-1c2022.github.io/)
+- [📄 Documentacion](https://taller2-grupo5-rostov-1c2022.github.io/docs/)
 - [📋 Enunciado](https://taller-de-programacion-2.github.io/works/statement/2022/1/enunciado/)
 - [📈 Trello](https://trello.com/b/Kjg4LeEq/spotifiuby)
 - [🗓️ Bitacora](https://docs.google.com/spreadsheets/d/1tFkrxioVGcj9Yy4X5Gez2n8S7ZMc2SEv-AUj2vXuvrg/edit#gid=0)
