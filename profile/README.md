@@ -8,7 +8,7 @@
 - [📄 Documentacion](https://taller2-grupo5-rostov-1c2022.github.io/)
 - [📋 Enunciado](https://taller-de-programacion-2.github.io/works/statement/2022/1/enunciado/)
 - [📈 Trello](https://trello.com/b/Kjg4LeEq/spotifiuby)
-- [🗓️ Sprint - Spreadsheet](https://docs.google.com/spreadsheets/d/1tFkrxioVGcj9Yy4X5Gez2n8S7ZMc2SEv-AUj2vXuvrg/edit#gid=0)
+- [🗓️ Bitacora](https://docs.google.com/spreadsheets/d/1tFkrxioVGcj9Yy4X5Gez2n8S7ZMc2SEv-AUj2vXuvrg/edit#gid=0)
 
 </details>
 
